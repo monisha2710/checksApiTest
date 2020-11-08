@@ -1,5 +1,5 @@
 public class hello{
-  public staic void main(String[] args){
-    Sysem.out.println("Hello World11!");
+  public static void main(String[] args){
+    Sysem.out.println("Hello World!");
   }
 }
